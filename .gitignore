@@ -32,3 +32,11 @@ Desktop.ini
 
 # Temporary visual data files
 vis_data.txt
+
+# Reports, conversion scripts, and presentation plans (Excluded from Git, kept locally)
+rapor.docx
+rapor.md
+~$rapor.docx
+~$*.docx
+convert_doc.py
+sunum_plani.md
