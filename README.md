@@ -8,7 +8,7 @@
 
 Bu proje, çukur (concave) veya tümsek (convex) poligonlar için bir noktanın poligonun içinde olup olmadığını saptayan **Ray-Casting (Even-Odd) algoritmasını** uzamsal indeksleme (**BVH**), donanım seviyesinde **AVX2 SIMD vektörleştirmesi** ve çoklu çekirdek **OpenMP paralelleştirmesi** kullanarak çözen yüksek performanslı bir Coğrafi Bilgi Sistemi (GIS) sorgu motoru prototipidir.
 
-Bu çalışma, **Paralel Programlama** dersi dönem projesi kapsamında geliştirilmiştir. (4. Grup - +10 Bonus Puan).
+Bu çalışma, **Paralel Programlama** dersi dönem projesi kapsamında geliştirilmiştir. (4. Grup).
 
 ---
 
