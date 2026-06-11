@@ -61,9 +61,6 @@ paralel proje/
 │   ├── speedup_multi_query.png
 │   └── time_comparison_multi.png
 ├── benchmark.py           # Test otomasyonu ve grafik çizim betiği
-├── convert_doc.py         # Markdown raporunu Word belgesine çeviren betik
-├── rapor.md               # Türkçe Akademik Proje Raporu (Markdown)
-├── rapor.docx             # Türkçe Akademik Proje Raporu (MS Word)
 └── .gitignore             # Git sürüm kontrolü yoksayma dosyası
 ```
 
