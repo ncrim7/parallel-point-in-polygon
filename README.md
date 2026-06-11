@@ -120,7 +120,6 @@ Geliştirdiğimiz çözücü tarafından test edilen 200 kenarlı çukur yıldı
 ---
 
 ## 📝 Akademik Rapor Dosyaları
-Üniversite isterlerini eksiksiz karşılayan Türkçe akademik proje raporu iki formatta sunulmuştur:
-- **Markdown Raporu:** [rapor.md](rapor.md) (VS Code veya GitHub üzerinde hızlı okumak için).
-- **Microsoft Word Raporu:** [rapor.docx](rapor.docx) (Doğrudan üniversite teslimi için).
+Üniversite isterlerini eksiksiz karşılayan Türkçe akademik proje raporu sunulmuştur:
+- **Microsoft Word Raporu:** [rapor.pdf](21360859069_22360859371_ParalelProgramlamaProje.pdf) (Doğrudan üniversite teslimi için).
 
